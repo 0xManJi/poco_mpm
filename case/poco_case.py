@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 # @Author  : Joy
 # @FileName: poco_case.py
-__author__ = "ZHANG CHUN HE"
 
 from airtest.core.api import *
 
