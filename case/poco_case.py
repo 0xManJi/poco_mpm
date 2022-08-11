@@ -20,3 +20,4 @@ poco(text="搜索商品/运动/款号").click()
 
 wait(Template(r"../images/tpl1659626999336.png", record_pos=(-0.091, -0.779), resolution=(900, 1600)))
 text("饮料")
+
